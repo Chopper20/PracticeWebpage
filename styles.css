@@ -16,3 +16,6 @@ h1 {
 .italicize {
   font-style: italic;
 }
+.standout {
+  colour:tomato;
+}
